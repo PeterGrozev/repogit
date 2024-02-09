@@ -1,3 +1,6 @@
 contenido prueba 1
+<<<<<<< HEAD
 modificación urgente en F1 por hotfix
 modificación urgente en F1 por hotfix
+modificación de versión iss53 en fichero 1
+
